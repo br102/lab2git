@@ -56,3 +56,6 @@ dependency-reduced-pom.xml
 README.html
 application.properties
 sandbox/
+
+#Archivos privados
+contrasenias
